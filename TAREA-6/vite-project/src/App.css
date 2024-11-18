@@ -3,10 +3,11 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  color: rgb(123, 47, 47);
-  font-size: 23;
+  color:blue;
+  
+  font-size: 13px;
   font-family:Georgia, 'Times New Roman', Times, serif;
-  background-color:rgb(180, 121, 38)
+  background-color:rgb(188, 236, 158)
 }
 
 .logo {
@@ -14,6 +15,7 @@
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
+  
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
@@ -77,6 +79,8 @@
 }
 
 .pagination-info {
-  font-size: 1rem;
+  font-size: 23px;
   color: red;
+  font-weight: bold;
+  font-style:oblique;
 }
